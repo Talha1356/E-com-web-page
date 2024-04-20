@@ -35,17 +35,13 @@
     display: flex;
     align-items: center;
 
-
 }
 
 .list ul li {
 
     list-style-type: none;
     padding: 0 12px;
-    font-size: 1.3rem;
-    
-    
-    
+    font-size: 1.3rem; 
 }
 
 .list ul li a{
